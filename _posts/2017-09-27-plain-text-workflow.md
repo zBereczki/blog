@@ -76,6 +76,10 @@ Ez a kis segédprogram felhoz egy ugyanolyan választóablakot, mint a hivatalos
 
 A kiválasztott tételről egy BibTeX cite keyt illeszt a dokumentumunkba. Ha lábjegyzetbe szeretnénk tenni, ezt a karaktert tegyük elé: `^`. Pl. `^@bereczki_reconstruction_2015`
 
+## Szóba jöhet még:
+
+[BibDesk](http://bibdesk.sourceforge.net)
+
 # Konverter
 
 Természetesen a [Pandoc](http://pandoc.org), ami a legkülönfélébb [markup-formátumok](http://pandoc.org/diagram.jpg) között tud parancssorból konvertálni. A [honlapról lehet letölteni](http://pandoc.org/installing.html) a telepítőt.
