@@ -104,7 +104,7 @@ Ha azt szeretnénk, hogy a Pandoc a fájl elejére tartalomjegyzéket, a végér
 
 - tartalomjegyzék: konvertálásnál parancssorban használjuk a `—toc` kapcsolót
 - bibliográfia: egyszerűen írjuk bele a markdown-fájlba a `Bibliography` szót oda, ahova a bibliográfiát tenni akarjuk; majd konvertálásnál használjuk a `--filter pandoc-citeproc` kapcsolót
-- formázás: ha változtatni akarunk azon, ahogy a Pandoc formázza a szöveget, akkor a generált docx-ben állítsuk át a megfelelő stílusokat (tehát ne direkt formázást használjunk), majd adjuk meg a Pandocnak a fájlt referenciának az alábbi kapcsolóval: `--reference-docx=FILE`. ([LibreOffice-szal is működik](https://github.com/jgm/pandoc/wiki/Defining-custom-DOCX-styles-in-LibreOffice-(and-Word), de azt még nem próbáltam, lehet, hogy ott kicsit máshogy van).
+- [formázás](http://pandoc.org/MANUAL.html#custom-styles-in-docx-output): ha változtatni akarunk azon, ahogy a Pandoc formázza a szöveget, akkor a generált docx-ben állítsuk át a megfelelő stílusokat (tehát ne direkt formázást használjunk), majd adjuk meg a Pandocnak a fájlt referenciának az alábbi kapcsolóval: `--reference-docx=FILE`.
 
 ## BBedit-script
 
