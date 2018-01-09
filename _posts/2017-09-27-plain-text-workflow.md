@@ -38,15 +38,15 @@ Szerkesztőnek a [BBEditet](https://www.barebones.com/products/bbedit/) választ
 
 A Scrivener nekem egy kicsit overkill volt. Amit valóban nagyon hasznosnak tartottam benne, az a Binder, ahol a dokumentum fejezetei és alfejezetei mappákként és fájlokként jelentek meg, így a navigálás nagyon egyszerű volt.
 
-![A Binder a Scrivenerben]({{ site.baseurl }}/assets/Scrivener_Binder.png)
+![A Binder a Scrivenerben]({{ site.baseurl }}/pic/Scrivener_Binder.png)
 
 Ezt a funkcionalitást a BBEdit is tudja, valódi mappákkal és fájlokkal, így magában a Finderben hozhatom létre a hosszú dokumentumok alapstruktúráját.
 
-![A „Project” sidebar a BBEditben]({{ site.baseurl }}/assets/BBEdit_Project.png)
+![A „Project” sidebar a BBEditben]({{ site.baseurl }}/pic/BBEdit_Project.png)
 
 Nyilván nem érdemes az összes al-alfejezetet külön fájlban tartani, ezt a tagolást már a fájlon belül Markdownban is megcsinálhatjuk. A BBedit `Functions`-menüje felismeri a Markdown fejezetcímeket, így a segítségével gyorsan lehet navigálni egy fájlon belül is.
 
-![A BBEdit „Functions”-menüje]({{ site.baseurl }}/assets/BBEdit_functions.png)
+![A BBEdit „Functions”-menüje]({{ site.baseurl }}/pic/BBEdit_functions.png)
 
 ## Szóba került még:
 
@@ -72,7 +72,7 @@ A `Citation keys` fülön pedig a `QuickCopy format`-ot állítsuk `Pandoc`-ra.
 
 Ez a kis segédprogram felhoz egy ugyanolyan választóablakot, mint a hivatalos LibreOffice/Word Zotero-pluginek, így nagyon egyszerű a hivatkozások beillesztése. Ha belemásoljuk a BBEdit `Scripts`-mappájába, akkor a BBEdit `Scripts`-menüjéből indíthatjuk.
 
-![zotpick-pandoc]({{ site.baseurl }}/assets/zotpic-pandoc.png)
+![zotpick-pandoc]({{ site.baseurl }}/pic/zotpic-pandoc.png)
 
 A kiválasztott tételről egy BibTeX cite keyt illeszt a dokumentumunkba. Ha lábjegyzetbe szeretnénk tenni, ezt a karaktert tegyük elé: `^`. Pl. `^@bereczki_reconstruction_2015`
 
@@ -118,7 +118,7 @@ A Pandoc használata lehetséges parancssor nélkül is. A BBEdithez léteznek P
 
 Olyan kellett, ami a Pandocot használja megjelenítéshez. Szerencsére a BBEdit beépített previewere ilyen, de kell hozzá a [pandoc-preview.sh](https://github.com/jrgcmu/BBpandoc/blob/master/pandoc-preview.sh) script, ami szintén a BBpandoc része. Ha ez telepítve van, akkor a BBEdit preview-ablakának a tetején kiválaszthatjuk a `pandoc-preview.sh` filtert. Ennek azért van jelentősége, mert így a hivatkozásaink és a bibliográfiánk már formázva jelenik meg a preview-ban is. 
 
-![saját csl alapján formázott bibliográfia a BBEdit előnézet-ablakában]({{ site.baseurl }}/assets/bibliografia.png)
+![saját csl alapján formázott bibliográfia a BBEdit előnézet-ablakában]({{ site.baseurl }}/pic/bibliografia.png)
 
 A lábjegyzetek az előnézet legaljára fognak kerülni, de ezzel ne törődjünk, azért van, mert a BBEdit nem tördeli oldalakra az előnézetet. A generált docx-ben természetesen a helyükön lesznek a lábjegyzetek.
 
