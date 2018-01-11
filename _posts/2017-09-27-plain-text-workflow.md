@@ -86,7 +86,7 @@ Természetesen a [Pandoc](http://pandoc.org), ami a legkülönfélébb [markup-f
 
 ## YAML header
 
-A Pandocnak szüksége van néhány alapadatra, amit a markdown-file elején az úgynevezett `YAML headser`-ben kell elhelyezni.
+A Pandocnak szüksége van néhány alapadatra, amit a markdown-file elején az úgynevezett `YAML header`-ben kell elhelyezni.
 
 Egy alap YAML-header így néz ki:
 
