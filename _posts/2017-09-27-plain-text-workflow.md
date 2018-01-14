@@ -107,7 +107,7 @@ A `bibliography` alatt a Better BibTeX által generált .bib-fájl elérési út
 Ha azt szeretnénk, hogy a Pandoc a fájl elejére tartalomjegyzéket, a végére pedig bibliográfiát illesszen, a következők a teendők.
 
 - tartalomjegyzék: konvertálásnál parancssorban használjuk a `—toc` kapcsolót
-- bibliográfia: egyszerűen írjuk bele a markdown-fájlba a `Bibliography` szót oda, ahova a bibliográfiát tenni akarjuk; majd konvertálásnál használjuk a `--filter pandoc-citeproc` kapcsolót
+- bibliográfia: a fájl legvégére kell tenni egy első szintű headert (`#`) bármilyen névvel (pl. *Irodalomjegyzék* vagy *Bibliography*, utána már ne jöjjön más), majd konvertálásnál használjuk a `--filter pandoc-citeproc` kapcsolót
 - [formázás](http://pandoc.org/MANUAL.html#custom-styles-in-docx-output): ha változtatni akarunk azon, ahogy a Pandoc formázza a szöveget, akkor a generált docx-ben állítsuk át a megfelelő stílusokat (tehát ne direkt formázást használjunk), majd adjuk meg a Pandocnak a fájlt referenciának az alábbi kapcsolóval: `--reference-docx=FILE`.
 
 ## BBedit-script
