@@ -74,7 +74,7 @@ Ez a kis segédprogram felhoz egy ugyanolyan választóablakot, mint a hivatalos
 
 ![zotpick-pandoc]({{ site.baseurl }}/pic/zotpic-pandoc.png)
 
-A kiválasztott tételről egy BibTeX cite keyt illeszt a dokumentumunkba. Ha lábjegyzetbe szeretnénk tenni, ezt a karaktert tegyük elé: `^`. Pl. `^@bereczki_reconstruction_2015`
+A kiválasztott tételről egy BibTeX cite keyt illeszt a dokumentumunkba. Ha lábjegyzetbe szeretnénk tenni, ezt a karaktert tegyük elé: `^`, és tegyük szögletes zárójelek közé. Pl. `^[@bereczki_reconstruction_2015]`
 
 ## Szóba jöhet még:
 
