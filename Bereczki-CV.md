@@ -12,13 +12,13 @@ permalink: /Bereczki-CV/
 - Citizenship: Hungarian
 - Date of birth: 04.08.1977.
 - Qualification: PhD in Architectural Sciences, MSc in Architecture and Engineering, postgraduate specialization in Preservation of built heritage
-- License number for architectural design: É-05-0444
 - Languages: Hungarian, German, English
 - Driving license: category “B” / class 5
 
 # Work experience
 
-- University of Pécs, Faculty of Engineering and Information Technology; part-time assistant lecturer; 2017– ongoing
+- University of Debrecen, Faculty of Engineering, Department of Building Engineering; assistant professor; 2017– ongoing
+- University of Pécs, Faculty of Engineering and Information Technology; part-time assistant lecturer; 2017–2018
 - Terve Bt., Miskolc, Hungary; owner, architect; 2002– ongoing
 - Hadas Műterem Kft., Miskolc, Hungary; architect; 2004–2007
 - Kinnarps Hungary Kft., Budapest, Hungary; designer, ISO manager; 2002–2004
@@ -26,8 +26,9 @@ permalink: /Bereczki-CV/
 
 # Experience in education
 
-- Part-time assistant lecturer, University of Pécs, Faculty of Engineering and Information Technology, Institute of Architecture, Department of Visual Studies; 2017– ongoing
-- Visiting lecturer, University of Debrecen, Faculty of Engineering, Department of Building Engineering, 2014– ongoing
+- Assistant professor, University of Debrecen, Faculty of Engineering, Department of Building Engineering, 2017– ongoing
+- Part-time assistant lecturer, University of Pécs, Faculty of Engineering and Information Technology, Institute of Architecture, Department of Visual Studies; 2017–2018
+- Visiting lecturer, University of Debrecen, Faculty of Engineering, Department of Building Engineering, 2014–2017
 - Visiting lecturer, University of Debrecen, Faculty of Engineering, Department of Architecture, 2011
 
 # Education
