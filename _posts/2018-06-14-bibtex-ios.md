@@ -17,3 +17,10 @@ Jelenleg ezek a megoldások vannak:
 - A purista megoldás: lementem időnként a .bib-fájlt iCloudba, megváltoztatom a kiterjesztést .txt-re, és iPhone-on megnyitom bármilyen text editorral. Böngészni a fájlt így nyilván nem lehet, de a keresés működik, ha lassan is.
 
 Nem akarja valaki portolni a BibDesket iOS-re? Elvileg [lehetséges](https://sourceforge.net/p/bibdesk/wiki/BibDesk_iOS/).
+
+# Frissítés:
+
+A purista megoldás mellett maradtam. Így működik most a dolog:
+
+- A library.bib-et a Dropboxomba költöztettem, így mindig up to date a telefonomon is.
+- A telefonon csináltam egy [workflow-t](https://workflow.is), ami azt csinálja, hogy amikor elindítom, készít egy másolatot a library.bib-ről library-*aktuális dátum*.txt néven, és megnyitja a 1Writerben. Így egyrészt nem kézzel kell átnevezgetnem (a .bib-et nem hajlandó a 1Writer megnyitni), másrészt az eredeti fájlom érintetlen marad. A workflow-t a home screenről tudom indítani.
