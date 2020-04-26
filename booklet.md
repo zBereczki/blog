@@ -8,7 +8,7 @@ permalink: /booklet/
 
 Supervisor: József Sisa
 
-*This booklet can be find in pdf on [Zenodo](http://zenodo.org):*  
+*This booklet can be found in pdf on [Zenodo](http://zenodo.org):*  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.817643.svg)](https://doi.org/10.5281/zenodo.817643)
 
 ## Introduction
